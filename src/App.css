@@ -24,15 +24,30 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+hr{
+  width: 50%
+}
+.title{
+  font-size: 40px;
+  margin-bottom: 40px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.inputText{
+  height: 28px;
+  width: 400px;
+  margin: 0 30px 25px 0;
+}
+.textArea{
+  margin-top: 25px;
+  width: 480px;
+  height: 300px;
+}
+
+button{
+  font-size: 12px;
+  color: white;
+  background-color: rgb(105, 206, 85);
+  padding: 4px 13px;
+  border: 0;
+  border-radius: 10%;
 }
